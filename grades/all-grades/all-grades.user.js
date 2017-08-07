@@ -13,3 +13,4 @@ if (matches) {
     $('#right-side-wrapper div').append('<a id="jj_allgrades" class="btn button-sidebar-wide" href="' + url + '"><i class="icon-gradebook"></i> View All Grades for Student</a>');
   }
 }
+//add letter grade on same line as percent grade
